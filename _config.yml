@@ -1,33 +1,33 @@
-title:            Site Title
-description:      Describe your website here.
-disqus_shortname: hpstrtheme
+title:            DevOps Elmo
+description:      Everything Is Awesome
+disqus_shortname: justinclayton
 reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
-url:
+url: 
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Justin Clayton
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          you@email.com
+  bio:            "DevOps enthusiast and brazen optimist. Writing about CM, CI, CD, and other forms of automation that are changing our world."
+  email:          
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
+  twitter:        justinclayton42
   facebook:       
-  github:         
+  github:         justinclayton
   stackexchange:  
-  linkedin:       
+  linkedin:       justinclayton42
   instagram:      
   flickr:         
   tumblr:         
   # For Google Authorship https://plus.google.com/authorship
   # google plus id, include the '+', eg +mmistakes
-  google_plus:    +yourid
+  google_plus:    
 
 # Background image to be tiled on all pages
-background: 
+background: crossword.png
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   
@@ -36,7 +36,7 @@ google_verify:
 bing_verify:         
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    America/Los_Angeles
 future:      true
 highlighter: pygments
 markdown:    kramdown
