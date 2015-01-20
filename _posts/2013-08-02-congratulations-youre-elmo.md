@@ -2,7 +2,7 @@
 layout: post
 title:      Congratulations, You're Elmo
 date:       2013-08-02 13:00:00 -0700
-tags:       devops
+tags:       culture
 ---
 
 It will happen to all of us at some point. You've been writing puppet manifests for a few years now; you've moved your modules into some form of version control, you've squashed some nasty inheritance bugs, and you've refactored your base class more times than you care to admit. All that messing around with ERBs may have even convinced you to pick up some ruby along the way. And then one day it hits you:
