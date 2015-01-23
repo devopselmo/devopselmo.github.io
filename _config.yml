@@ -5,35 +5,35 @@ reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
-url: 
+url:
 
 # Owner/author information
 owner:
   name:           Justin Clayton
   avatar:         avatar.jpg
   bio:            "DevOps enthusiast and brazen optimist. Writing about CM, CI, CD, and other forms of automation that are changing our world."
-  email:          
+  email:
   # Social networking links used in footer. Update and remove as you like.
   twitter:        justinclayton42
-  facebook:       
+  facebook:
   github:         justinclayton
-  stackexchange:  
+  stackexchange:
   linkedin:       justinclayton42
-  instagram:      
-  flickr:         
-  tumblr:         
+  instagram:
+  flickr:
+  tumblr:
   # For Google Authorship https://plus.google.com/authorship
   # google plus id, include the '+', eg +mmistakes
-  google_plus:    
+  google_plus:
 
 # Background image to be tiled on all pages
 background: crossword.png
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   
-google_verify:      
+google_analytics: UA-58905817-1
+google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:         
+bing_verify:
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Los_Angeles
